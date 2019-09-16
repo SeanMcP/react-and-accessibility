@@ -49,6 +49,9 @@
 -   [ ] Robust
     -   Cross-browser, -device testing
     -   Valid, semantic HTML
+-   [ ] Common tasks
+    -   [ ] Managing focus
+    -   [ ] Maintaining structure
 -   [ ] Basic accessibility auditing
     -   [ ] aXe
     -   [ ] Lighthouse
