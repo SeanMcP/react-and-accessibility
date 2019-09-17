@@ -1,0 +1,16 @@
+{
+  "printWidth": 60,
+  "proseWrap": "always",
+  "semi": false,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "**/*.jsonc",
+      "options": {
+        "quoteProps": "preserve",
+        "parser": "json5",
+        "singleQuote": false
+      }
+    }
+  ]
+}
