@@ -1,0 +1,24 @@
+{
+  "name": "react-and-accessibility",
+  "version": "1.0.0",
+  "description": "**Objective**: Learn the importance of accessible development and some key strategies for making React applications accessible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"slides/**.*\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/react-and-accessibility.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanMcP/react-and-accessibility/issues"
+  },
+  "homepage": "https://github.com/SeanMcP/react-and-accessibility#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
