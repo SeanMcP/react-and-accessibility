@@ -1,8 +1,21 @@
 # Bibliography
 
+-   Crown, Kevin L. (2008). Linking Research and Practice to Improve Learning. TechTrends, 52(1), 51-55. https://link.springer.com/article/10.1007%2Fs11528-008-0112-6
 -   Krotoff, T. (2019, May 29). _FrontendFrameworksPopularity.md_. Retrieved from https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190
+-   Melendez, Steven. (2019). Ninth circuit court: Domino’s pizza website is bound by ADA. FastCompany. Retrieved from https://www.fastcompany.com/90293399/ninth-circuit-court-dominos-pizza-website-is-bound-by-ada
+-   United Nations Department of Economic and Social Affairs. (2006). Article 2 – Definitions. Retrieved from https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html
 
-## Information to cite
+## Needs citation
+-   https://americanhistory.si.edu/collections/search/object/nmah_1417719
+-   https://www.cdc.gov/ncbddd/disabilityandhealth/pdf/disabilityposter_photos.pdf
+-   http://centreforinclusivedesign.org/media/1186/inclusive-design-report-digital-160519.pdf
+-   https://www.interactiveaccessibility.com/services/ada-compliance
+-   https://www.law.cornell.edu/uscode/text/42/12102
+-   https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/
+-   https://ssir.org/articles/entry/the_curb_cut_effect
+-   https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-9-accessibility.html
+
+## References
 
 -   Cohn-Wein, L. (2019, February 25). _Accessibility is not a “React Problem”_. Retrieved from https://www.netlify.com/blog/2019/02/25/accessibility-is-not-a-react-problem/
 -   Goldfarb, S. (2019, May 21) _3 Ways to Engineer for Accessibility with React_. Retrieved from https://engineering.salesforce.com/3-ways-to-engineer-for-accessibility-with-react-df8e66e1941a
