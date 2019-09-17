@@ -1,9 +1,14 @@
 import React from 'react'
 
 function Input(props) {
-    return (
-        <input className="Input" placeholder={props.placeholder} type={props.type} value={props.value} />
-    )
+  return (
+    <input
+      className="Input"
+      placeholder={props.placeholder}
+      type={props.type}
+      value={props.value}
+    />
+  )
 }
 
 // function Input({ label, error, ...props }) {

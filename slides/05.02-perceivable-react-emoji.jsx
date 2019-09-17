@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Emoji(props) {
-    return <span>{props.symbol}</span>
+  return <span>{props.symbol}</span>
 }
 
 // function Emoji({ label, symbol, ...props }) {
