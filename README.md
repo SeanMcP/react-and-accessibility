@@ -50,11 +50,11 @@
     -   Cross-browser, -device testing
     -   Valid, semantic HTML
 -   [ ] Common tasks
-    -   [ ] Managing focus
     -   [x] Maintaining structure
         - [x] Semantic HTML
         - [x] Landmarks
         - [x] Headings  
+    -   [ ] Managing focus
     -   [ ] Enforcing color standards
 -   [ ] Basic accessibility auditing
     -   [ ] aXe
