@@ -55,6 +55,11 @@
         - [x] Landmarks
         - [x] Headings  
     -   [ ] Managing focus
+        - [ ] Use `button` and `a`
+        - [ ] Hand focus off to interactive 
+        elements
+        - [ ] Bring focus back after interactions
+        - [ ] Example
     -   [ ] Enforcing color standards
 -   [ ] Basic accessibility auditing
     -   [ ] aXe
