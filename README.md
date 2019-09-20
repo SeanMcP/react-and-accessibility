@@ -54,13 +54,13 @@
         - [x] Semantic HTML
         - [x] Landmarks
         - [x] Headings  
-    -   [ ] Managing focus
-        - [ ] Use `button` and `a`
-        - [ ] Hand focus off to interactive 
+    -   [x] Managing focus
+        - [x] Use `button` and `a`
+        - [x] Hand focus off to interactive 
         elements
-        - [ ] Bring focus back after interactions
-        - [ ] Example
-    -   [ ] Enforcing color standards
+        - [x] Bring focus back after interactions
+        - [x] Example
+    -   [x] Enforcing color standards
 -   [ ] Basic accessibility auditing
     -   [ ] aXe
     -   [ ] Lighthouse
