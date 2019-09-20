@@ -51,7 +51,11 @@
     -   Valid, semantic HTML
 -   [ ] Common tasks
     -   [ ] Managing focus
-    -   [ ] Maintaining structure
+    -   [x] Maintaining structure
+        - [x] Semantic HTML
+        - [x] Landmarks
+        - [x] Headings  
+    -   [ ] Enforcing color standards
 -   [ ] Basic accessibility auditing
     -   [ ] aXe
     -   [ ] Lighthouse
