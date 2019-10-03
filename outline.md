@@ -2,6 +2,8 @@
 
 Now that I have been diving into the topic for a few months, I wanted the opportunity to reimagine an outline from scratch. This will be used to compare and contrast with [the outline in the README](/README.md).
 
+[View the deck](https://docs.google.com/presentation/d/15qpdFduf2KmZ9FyGAHiyFgADCGkgy2wKD0rxEmwGWpc/edit?usp=sharing)
+
 ## Talk
 
 ### Intro
