@@ -13,7 +13,7 @@ Now that I have been diving into the topic for a few months, I wanted the opport
   - Not an expert
 - Hook
   - You don't have to be an expert to create accessible applications
-  - You just need to care about every user
+  - You just need to care about the user
 - React and accessibility
   - Bad reputation
   - Reality: React gives you all the tools you need to create accessible applications
