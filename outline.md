@@ -57,23 +57,23 @@ Now that I have been diving into the topic for a few months, I wanted the opport
   - Definition
   - React example
   
-  ### In action
-  - Common tasks
-    - Maintaining page structure
-    - Enforcing color standards
-    - Managing focus
-    - Advocating for the user
-  - Auditing
-    - Automated (good)
-      - `react-axe`
-      - `jsx-a11y`
-    - Manual (better)
-      - `axe`
-  - Recommendations
-    - Advocate for a11y for your product
-    - It is easier, cheaper, and quicker to proritize a11y in the beginning
-    - Audit early and often
-    - Build a11y checks into your QA CI/CD process
+### In action
+- Common tasks
+  - Maintaining page structure
+  - Enforcing color standards
+  - Managing focus
+  - Advocating for the user
+- Auditing
+  - Automated (good)
+    - `react-axe`
+    - `jsx-a11y`
+  - Manual (better)
+    - `axe`
+- Recommendations
+  - Advocate for a11y for your product
+  - It is easier, cheaper, and quicker to proritize a11y in the beginning
+  - Audit early and often
+  - Build a11y checks into your QA CI/CD process
       
   ### Closing remarks
   - Review learning objectives
