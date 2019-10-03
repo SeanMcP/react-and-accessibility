@@ -8,10 +8,13 @@
 ## Needs citation
 -   https://americanhistory.si.edu/collections/search/object/nmah_1417719
 -   https://www.cdc.gov/ncbddd/disabilityandhealth/pdf/disabilityposter_photos.pdf
+-   https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html
 -   http://centreforinclusivedesign.org/media/1186/inclusive-design-report-digital-160519.pdf
+-   https://disabilitycompendium.org/sites/default/files/user-uploads/2017_AnnualReport_2017_FINAL.pdf
 -   https://www.interactiveaccessibility.com/services/ada-compliance
 -   https://www.law.cornell.edu/uscode/text/42/12102
 -   https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/
+-   https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/
 -   https://ssir.org/articles/entry/the_curb_cut_effect
 -   https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-9-accessibility.html
 
