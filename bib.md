@@ -17,6 +17,7 @@
 -   https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/
 -   https://ssir.org/articles/entry/the_curb_cut_effect
 -   https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-9-accessibility.html
+-   https://www.who.int/disabilities/world_report/2011/report/en/
 
 ## References
 
