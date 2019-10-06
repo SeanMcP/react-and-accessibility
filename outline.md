@@ -95,6 +95,6 @@ scratch. This will be used to compare and contrast with
   ### Closing remarks
   - Review learning objectives
   - Tweetworthy: You don't have to be an expert to create
-    accessible applications; you just need to care about
-    every user.
+    accessible applications; you just need to care about the
+    user.
   - Resources
