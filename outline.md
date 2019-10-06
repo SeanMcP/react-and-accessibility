@@ -1,7 +1,7 @@
 # Outline
 
 Now that I have been diving into the topic for a few months,
-I wanted the opportunity to reimagine an outline from
+I wanted the opportunity to re-imagine an outline from
 scratch. This will be used to compare and contrast with
 [the outline in the README](/README.md).
 
@@ -87,7 +87,7 @@ scratch. This will be used to compare and contrast with
     - `axe`
 - Recommendations
   - Advocate for a11y for your product
-  - It is easier, cheaper, and quicker to proritize a11y in
+  - It is easier, cheaper, and quicker to prioritize a11y in
     the beginning
   - Audit early and often
   - Build a11y checks into your QA CI/CD process
