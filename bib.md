@@ -13,6 +13,7 @@
 -   https://disabilitycompendium.org/sites/default/files/user-uploads/2017_AnnualReport_2017_FINAL.pdf
 -   https://www.interactiveaccessibility.com/services/ada-compliance
 -   https://www.law.cornell.edu/uscode/text/42/12102
+-   https://www.nytimes.com/2010/05/11/nyregion/11slogan.html
 -   https://www.oxo.com/blog/behind-the-scenes/behind-design-oxos-iconic-good-grips-handles/
 -   https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/
 -   https://ssir.org/articles/entry/the_curb_cut_effect
