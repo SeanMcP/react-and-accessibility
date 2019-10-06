@@ -85,6 +85,7 @@ scratch. This will be used to compare and contrast with
     - `jsx-a11y`
   - Manual (better)
     - `axe`
+    - "How to" by Google
 - Recommendations
   - Advocate for a11y for your product
   - It is easier, cheaper, and quicker to prioritize a11y in
