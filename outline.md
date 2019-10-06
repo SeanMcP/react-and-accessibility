@@ -69,7 +69,6 @@ scratch. This will be used to compare and contrast with
   - Definition
   - React example
 - Robust
-
   - Definition
   - React example
 
