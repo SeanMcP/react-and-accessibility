@@ -10,6 +10,7 @@
 -   https://www.cdc.gov/ncbddd/disabilityandhealth/pdf/disabilityposter_photos.pdf
 -   https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html
 -   http://centreforinclusivedesign.org/media/1186/inclusive-design-report-digital-160519.pdf
+-   https://www.cnbc.com/2019/10/07/dominos-supreme-court.html
 -   https://developers.google.com/web/fundamentals/accessibility/how-to-review
 -   https://disabilitycompendium.org/sites/default/files/user-uploads/2017_AnnualReport_2017_FINAL.pdf
 -   https://www.interactiveaccessibility.com/services/ada-compliance
