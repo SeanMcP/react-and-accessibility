@@ -24,6 +24,7 @@
 
 ## References
 
+-   https://webaim.org/projects/million/
 -   Cohn-Wein, L. (2019, February 25). _Accessibility is not a “React Problem”_. Retrieved from https://www.netlify.com/blog/2019/02/25/accessibility-is-not-a-react-problem/
 -   Goldfarb, S. (2019, May 21) _3 Ways to Engineer for Accessibility with React_. Retrieved from https://engineering.salesforce.com/3-ways-to-engineer-for-accessibility-with-react-df8e66e1941a
 -   Mantuzovic, M. (2019, April 25). _12 Tips for More Accessible React Apps (Slides, React Finland 2019)_. Retrieved from https://www.matuzo.at/blog/12-tips-for-more-accessible-react-apps-slides-react-finland-2019/
