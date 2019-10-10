@@ -21,6 +21,8 @@
 -   https://ssir.org/articles/entry/the_curb_cut_effect
 -   https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-9-accessibility.html
 -   https://www.who.int/disabilities/world_report/2011/report/en/
+-   https://upload.wikimedia.org/wikipedia/commons/b/bf/Inaccessible_Pinnacle_-_geograph.org.uk_-_1719456.jpg
+-   https://www.iranhumanrights.org/2018/06/drr-inaccessible-public-transportation/
 
 ## References
 
