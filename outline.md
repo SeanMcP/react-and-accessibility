@@ -7,6 +7,12 @@ scratch. This will be used to compare and contrast with
 
 [View the deck](https://docs.google.com/presentation/d/15qpdFduf2KmZ9FyGAHiyFgADCGkgy2wKD0rxEmwGWpc/edit?usp=sharing)
 
+**DISCLAIMER**: This outline has been replaced by the
+above-mentioned slides. This will continue to exist as a
+reference.
+
+---
+
 ## Talk
 
 ### Intro
