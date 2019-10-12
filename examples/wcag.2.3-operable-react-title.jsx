@@ -2,7 +2,7 @@ import React from 'react'
 
 const AppName = 'HyperCool.ai'
 
-function Page({ children, title }) {
+export default function Page({ children, title }) {
   React.useEffect(() => {
     document.title = title
       ? `${title} - ${AppName}`
@@ -11,5 +11,3 @@ function Page({ children, title }) {
 
   return <div className="Page">{children}</div>
 }
-
-export default Page

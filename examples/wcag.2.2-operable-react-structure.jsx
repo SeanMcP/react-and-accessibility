@@ -1,6 +1,6 @@
 import React from 'react'
 
-function AboutPage() {
+export default function AboutPage() {
   return (
     <div>
       <div className="h6">
@@ -25,7 +25,13 @@ function AboutPage() {
   )
 }
 
-// function AboutPage() {
+
+
+
+
+
+
+// export default function AboutPage() {
 //     return (
 //         <div>
 //             <h6>Disrupting the industry with blockchain AI</h6>
@@ -38,7 +44,7 @@ function AboutPage() {
 //     )
 // }
 
-// function AboutPage() {
+// export default function AboutPage() {
 //     return (
 //         <div className="Page">
 //             <p className="p--page-lead">Disrupting the industry with blockchain AI</p>
@@ -50,5 +56,3 @@ function AboutPage() {
 //         </div>
 //     )
 // }
-
-export default AboutPage

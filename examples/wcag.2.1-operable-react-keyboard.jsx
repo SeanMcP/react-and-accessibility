@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Button(props) {
+export default function Button(props) {
   return (
     <div
       className={`Button Button--${props.type}`}
@@ -11,6 +11,14 @@ function Button(props) {
   )
 }
 
+
+
+
+
+
+
+
+
 // function Button(props) {
 //     return (
 //         <button className="Button" type={props.type} onClick={props.onClick}>
@@ -18,5 +26,3 @@ function Button(props) {
 //         </button>
 //     )
 // }
-
-export default Button

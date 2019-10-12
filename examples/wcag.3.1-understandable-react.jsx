@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Input(props) {
+export default function Input(props) {
   return (
     <input
       className="Input"
@@ -11,7 +11,15 @@ function Input(props) {
   )
 }
 
-// function Input({ label, error, ...props }) {
+
+
+
+
+
+
+
+
+// export default function Input({ label, error, ...props }) {
 //     const id = `${props.name}-${String(Math.random()).slice(-5)}`
 //     return (
 //         <div className={`Input ${error ? 'Input--error' : ''}`}>
@@ -21,5 +29,3 @@ function Input(props) {
 //         </div>
 //     )
 // }
-
-export default Input
