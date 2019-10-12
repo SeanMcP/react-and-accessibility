@@ -9,6 +9,8 @@ scratch. This will be used to compare and contrast with
 
 ## Talk
 
+█
+
 ### Intro
 
 - Overview
