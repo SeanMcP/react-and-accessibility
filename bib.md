@@ -7,6 +7,7 @@
 
 ## Needs citation
 -   https://americanhistory.si.edu/collections/search/object/nmah_1417719
+-   http://atomicdesign.bradfrost.com/chapter-2/
 -   https://www.cdc.gov/ncbddd/disabilityandhealth/pdf/disabilityposter_photos.pdf
 -   https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html
 -   http://centreforinclusivedesign.org/media/1186/inclusive-design-report-digital-160519.pdf
