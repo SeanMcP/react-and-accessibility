@@ -19,5 +19,5 @@
     // "terminal.integrated.fontWeight": "600",
     // "terminal.integrated.fontSize": 28,
     // "terminal.integrated.shell.linux": "/bin/bash",
-    // "editor.formatOnSave": false,
+    "editor.formatOnSave": false,
 }
